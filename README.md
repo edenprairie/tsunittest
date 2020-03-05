@@ -2,11 +2,11 @@
 
 This repository contains 3 Projects:
 
-1.  [HelloJasmine](https://github.com/chiragrupani/TSUnitTestsSetup/tree/master/HelloJasmine 'Jasmine')
+1.  [HelloJasmine](https://github.com/edenprairie/tsunittest/tree/master/HelloJasmine 'Jasmine')
 
-2.  [HelloMocha](https://github.com/chiragrupani/TSUnitTestsSetup/tree/master/HelloMocha 'Mocha')
+2.  [HelloMocha](https://github.com/edenprairie/tsunittest/tree/master/HelloMocha 'Mocha')
 
-3.  [Hello Jest](https://github.com/chiragrupani/TSUnitTestsSetup/tree/master/HelloJest 'Jest')
+3.  [Hello Jest](https://github.com/edenprairie/tsunittest/tree/master/HelloJest 'Jest')
 
 Each project contains sample source code in `src` folder and unit tests in `tests` folder.
 
